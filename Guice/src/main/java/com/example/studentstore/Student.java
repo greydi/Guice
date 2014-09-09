@@ -1,4 +1,4 @@
-package guice.studentstore;
+package com.example.studentstore;
 
 public class Student {
 	private Integer id;

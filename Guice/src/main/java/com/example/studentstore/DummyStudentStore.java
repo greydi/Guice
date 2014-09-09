@@ -1,4 +1,4 @@
-package guice.studentstore;
+package com.example.studentstore;
 
 import java.util.HashMap;
 import java.util.Map;

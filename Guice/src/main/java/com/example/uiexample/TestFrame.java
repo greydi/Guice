@@ -1,4 +1,4 @@
-package guice.uiexample;
+package com.example.uiexample;
 
 import java.awt.BorderLayout;
 import javax.swing.AbstractAction;
@@ -20,7 +20,7 @@ public class TestFrame extends JFrame {
 
 		JPanel p = new JPanel();
 		button.addActionListener(s);
-		// button.setText("Przycisk 2");
+		//button.setText("Przycisk 2");
 		p.add(button);
 		quit.addActionListener(asquit);
 		quit.setText("Quit");

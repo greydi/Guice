@@ -1,4 +1,4 @@
-package guice.studentstore;
+package com.example.studentstore;
 
 public interface StudentStore {
 	public boolean exists(Integer id);

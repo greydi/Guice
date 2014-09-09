@@ -1,4 +1,4 @@
-package guice.studentstore;
+package com.example.studentstore;
 
 import java.util.Scanner;
 import com.google.inject.Guice;

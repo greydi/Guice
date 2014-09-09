@@ -1,4 +1,4 @@
-package guice.studentstore;
+package com.example.studentstore;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
